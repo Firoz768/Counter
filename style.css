@@ -1,0 +1,21 @@
+#counter_label{
+    text-align: center;
+    display: block;
+    font-size: 10em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#btn_container{
+    text-align: center;
+}
+.buttons{
+    color:white;
+    background-color: hsl(180, 72%, 25%);
+    font-size: 1.5em;
+    border-radius: 10px;
+    transition: background-color 0.2s;
+    cursor: pointer;
+}
+.buttons:hover{
+    background-color: hsl(240, 74%, 66%);
+}
